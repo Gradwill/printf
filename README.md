@@ -1,1 +1,1 @@
-My own C printf programming practice function
+My own C printf program for practice purposes.
